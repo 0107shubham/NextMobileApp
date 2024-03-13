@@ -45,6 +45,7 @@ const Login = ({ onLogin }) => {
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
+          padding: "10px",
         }}
         onSubmit={handleSubmit}
       >
